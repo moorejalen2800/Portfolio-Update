@@ -2,7 +2,7 @@
 
 
 
-Jalen Moore - http://github.com/moorejalen280
+Jalen Moore - http://github.com/moorejalen2800
 
 Deployed Link https://moorejalen2800.github.io/Portfolio-Update/
 
