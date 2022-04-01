@@ -4,6 +4,8 @@
 
 Jalen Moore - http://github.com/moorejalen280
 
+Deployed Link https://moorejalen2800.github.io/Portfolio-Update/
+
 
 # Concept
 
